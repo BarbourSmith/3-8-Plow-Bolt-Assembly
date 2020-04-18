@@ -2,6 +2,9 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|Square-Neck Flat Plow Bolt|1|$0.53|https://www.mcmaster.com/90911a633|
+|3/8 Washer|1|$0.05|https://www.mcmaster.com/92141a031|
+|3/8-16 Locknut|1|$0.09|https://www.mcmaster.com/95615a140|
+|Total: |3|$0.68| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $2.03
