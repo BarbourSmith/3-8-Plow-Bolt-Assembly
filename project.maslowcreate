@@ -1,0 +1,20 @@
+{
+    "atomType": "Molecule",
+    "name": "3/8 Plow Bolt Assembly",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 775471,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9853587115666179,
+            "y": 0.5,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1
+}
